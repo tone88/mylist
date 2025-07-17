@@ -1,2 +1,2 @@
 # mylist
-tvlist
+list
